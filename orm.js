@@ -1,6 +1,6 @@
 import Sequelize, { STRING, DATE, BOOLEAN } from 'sequelize';
-var userName = 'mlima';
-var password = '123'; // update me
+var userName = '';
+var password = ''; // update me
 var hostName = 'localhost';
 var sampleDbName = 'SampleDB';
 
