@@ -1,7 +1,7 @@
 import Sequelize, { STRING, DATE, BOOLEAN } from 'sequelize';
 var userName = 'mlima';
 var password = '123'; // update me
-var hostName = 'localhost';
+var hostName = '192.168.0.189';
 var sampleDbName = 'SampleDB';
 
 // Initialize Sequelize to connect to sample DB
